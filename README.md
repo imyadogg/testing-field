@@ -15,3 +15,9 @@ ${\color{red}{\textsf{this text is red}}}$
 </tr>
 </tbody>
 </table>
+
+```mermaid
+pie
+"Movies" : 80
+"TV shows" : 20
+```
