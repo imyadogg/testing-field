@@ -16,8 +16,10 @@ ${\color{red}{\textsf{this text is red}}}$
 </tbody>
 </table>
 
+funny pie chart testing
+<br>
 ```mermaid
 pie
-"Movies" : 80
-"TV shows" : 20
+"limbus company playtime" : 99
+"yo" : 1
 ```
